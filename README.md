@@ -3,7 +3,7 @@
 >
 > *Pronounced like "Gloss Box"*
 
-![GloscBox Gradient Poster](https://res.cloudinary.com/b34didzp/image/upload/v1785211888/GloscBoxPoster_hmmdns.png)
+![GloscBox Gradient Poster](./img/GloscBoxPoster.png)
 
 # What is the GloscBox?
 
